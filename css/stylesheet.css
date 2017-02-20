@@ -1,14 +1,15 @@
-#stuff {
-  width: 550px;
-  height: 400px;
-  background-color: gray;
-  margin-left: auto;
-  margin-right: auto;
-  border: 10px solid black;
-}
+       body {
+           background-color: gray;
+       }
+       
+       #phaser-example {
+           border: 3px solid white;
+           width: 400px;
+           height: 300px;
+           margin-left: auto;
+           margin-right: auto;
+           margin-top: 50px;
+       }
 
-#stuff2 {
- text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
+
+/* I CSS er der vist kun block commenting  */ 
