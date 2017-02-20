@@ -1,0 +1,14 @@
+#stuff {
+  width: 550px;
+  height: 400px;
+  background-color: gray;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid black;
+}
+
+#stuff2 {
+ text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
