@@ -3,9 +3,9 @@
 
 
 
+// Ass junk
 
-
-/* Her starter jeg et nyt Phaser object. new er en af de mere komplicerede ting ved JS, ligesom prototyper og iheritance. Det kan vi diskutere når vi ved lidt mere.*/ 
+/* Her starter jeg et nyt Phaser object. new er en af de mere komplicerede ting ved JS, ligesom prototyper og inheritance. Det kan vi diskutere når vi ved lidt mere.*/ 
 var game = new Phaser.Game(400, 300, Phaser.AUTO, 'phaser-example', {
     preload: preload,
     create: create,
