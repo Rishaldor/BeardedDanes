@@ -50,6 +50,7 @@ function create() {
     cursors = game.input.keyboard.createCursorKeys();
     jumpButton = game.input.keyboard.addKey(Phaser.Keyboard.SPACEBAR);
 
+    console.log("Luder");
 }
 // Update er til de ting der skal opdateres hver cpu cycle
 function update() {
